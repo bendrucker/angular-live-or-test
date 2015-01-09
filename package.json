@@ -1,6 +1,6 @@
 {
   "name": "angular-live-or-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular service and directive for toggling and indicating \"live\" and \"test\" modes",
   "main": "./src",
   "scripts": {
