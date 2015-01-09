@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '0.10'
+deploy:
+  provider: npm
+  email: bvdrucker@gmail.com
+  api_key:
+    secure: CdEopfFAKHFIe+32m40X+h0L5STMKykTtmb+E5vE8An/Gp65/ji2B1tZy+QVQNotbIzkYz5zvMysbYxhJsSuU/qGdVnuAUp2Ful961Khfz9QPr4eAe5F0r5u0OYGMcXkpC3lZilJWp2j1TrKvsEsKrDX6NVxdJvwGS4rkTuq5Hw=
+  on:
+    tags: true
+    all_branches: true
+    repo: valet-io/angular-live-or-test
