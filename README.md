@@ -1,4 +1,4 @@
-# angular-live-or-test [![Build Status](https://travis-ci.org/valet-io/angular-live-or-test.svg)](https://travis-ci.org/valet-io/angular-live-or-test)
+# angular-live-or-test [![Build Status](https://travis-ci.org/valet-io/angular-live-or-test.svg)](https://travis-ci.org/valet-io/angular-live-or-test) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/angular-live-or-test.svg)](https://greenkeeper.io/)
 
 Angular service and directive for toggling and indicating "live" and "test" modes. If you've ever used [Stripe](https://stripe.com/), you've seen how you can toggle between "live" and "test" from your dashboard. In test mode, the dashboard displays a badge reminding the user that they're in test mode. This allow you to replicate that effect.
 
